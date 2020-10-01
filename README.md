@@ -1,2 +1,7 @@
 # used_car_prices_in_Kenya_chaptr_capstone
 This project aims to simplify the process of pricing cars in Kenya for dealers and individual sellers.
+|Step |Description |Tags |
+|---|---|---|
+[Project Formulation](https://github.com/okothchristopher/used_car_prices_in_Kenya_chaptr_capstone/blob/main/files/used%20car%20price%20in%20Kenya%20machine%20learning%20project%20.pdf)|This includes stating the problem I am solving that is pricing of cars in a competitive manner to attract buyers and make business sense of the market. Also included is the steps to be taken during the project undertaking|<img src="https://img.shields.io/badge/-google_docs-81D4FA"><img src="https://img.shields.io/badge/-Github-black">|
+[Data Sourcing](https://github.com/okothchristopher/used_car_prices_in_Kenya_chaptr_capstone/blob/main/files/used_car_price_estimator_in_kenya.ipynb)| This involves scraping cheki.com website for car listings| <img src="https://img.shields.io/badge/-Python-green"><img src="https://img.shields.io/badge/-BeautifulSoup-blue"><img src="https://img.shields.io/badge/-Requests-red">|
+[Data Cleaning](https://github.com/okothchristopher/used_car_prices_in_Kenya_chaptr_capstone/blob/main/files/cars_cheki.R)| From the scraped data the infromation we need is not readily available so we need to extract that information and come up with useful variables |<img src="https://img.shields.io/badge/-R-navy"><img src="https://img.shields.io/badge/-Tidyverse-purple">|
