@@ -1,5 +1,6 @@
 # used_car_prices_in_Kenya_chaptr_capstone
 This project aims to simplify the process of pricing cars in Kenya for dealers and individual sellers.
+Click on the stage to go to file.
 |Step |Description |Tags |
 |---|---|---|
 [Project Formulation](https://github.com/okothchristopher/used_car_prices_in_Kenya_chaptr_capstone/blob/main/files/used%20car%20price%20in%20Kenya%20machine%20learning%20project%20.pdf)|This includes stating the problem I am solving that is pricing of cars in a competitive manner to attract buyers and make business sense of the market. Also included is the steps to be taken during the project undertaking|<img src="https://img.shields.io/badge/-google_docs-81D4FA"><img src="https://img.shields.io/badge/-Github-black">|
